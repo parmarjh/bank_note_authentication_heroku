@@ -1,5 +1,4 @@
 Flask
-gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
@@ -10,7 +9,6 @@ scikit-learn
 matplotlib
 pandas
 flasgger
-streamlit
 
 
 
