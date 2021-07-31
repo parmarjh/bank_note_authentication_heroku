@@ -2,6 +2,8 @@
 
 This is an ML app for authenticating banknotes
 
+[!Alt text](img_0.png)
+
 * All files for creating this app is in the 👉 testing branch, you can check it out like `BankNote_Authentication.csv`
 * `main` branch is deployed on Heroku. This is the link : [Heroku](https://money-app-ashish.herokuapp.com/)
 * This is a classification project, since the variable to be predicted is binary (fraudulent or legal).
