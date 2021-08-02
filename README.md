@@ -36,9 +36,9 @@ In that way, this problem has the following variables of wavelet transformed:
 * Run this command `$ heroku create money-app` it will ask you login credentials. You get login through browser.
 * Now your app is created on Heroku, you have to put your code in Heroku.
 * You have to run the following command in order to make it deoployable
-* $ git add . 
-* $ git commit -am "make it better"
-* $ git push heroku master
+* `$ git add .`
+* `$ git commit -m "make it better"`
+* `$ git push heroku master`
 * Just simply `$ git push heroku master`. Before this command make sure you commit all your code.
 
 ### Your Heroku app is ready you can checkout Heroku link
